@@ -26,10 +26,3 @@ Aqui está um dos principais projetos nos quais tenho trabalhado:
 *   **E-mail:** (suyanesilva505@gmail.com)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180M" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180M" />
-</p>
